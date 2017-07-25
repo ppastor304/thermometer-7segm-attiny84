@@ -1,0 +1,15 @@
+#  1x    ATtiny84-20PU (DIP14)
+#  1x    SN74HC595N (DIP16)
+#  1x    Switch
+#  1x    TMP36 (TO-92)
+#  8x    1kΩ
+#  1x    78L05 (TO-92)
+#  1x    0.33μF
+#  1x    0.1μF
+#  1x    Display 7-segments 0.36"
+#  1x    Socket 14 pins
+#  1x    Socket 16 pins
+#  1x    Battery holder (9V)
+#  1x    Battery holder (9V)
+#  1x    Push button
+#  2x    10kΩ (voltage divider)
